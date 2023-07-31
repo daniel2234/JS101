@@ -1,0 +1,20 @@
+{
+  "en": {
+    "language": "en",
+    "welcome": "Welcome to Calculator!",
+    "firstNumber": "What is the first number?",
+    "secondNumber": "What is the second number?",
+    "choose": "What operation would you like to perform? 1)Add 2)Subtract 3)Multiply 4)Divide",
+    "constraints":"Must choose 1, 2, 3 or 4",
+    "playAgain":"Would you like to play again (yes/no)?"
+  },
+  "es":{
+    "language": "es",
+    "welcome": "¡Bienvenido a Calculadora!",
+    "firstNumber": "Cual es el primer numero?",
+    "secondNumber": "Cual es el segundo numero?",
+    "choose": "¿Qué operación le gustaría realizar? 1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+    "constraints":"Debe elegir 1, 2, 3 o 4",
+    "playAgain":"¿Te gustaría volver a jugar (sí)?"
+  }
+}
